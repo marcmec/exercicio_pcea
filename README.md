@@ -1,3 +1,3 @@
 # exercicio_pcea
 
-## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
+Fundamentos de Programação de Computadores é a disciplina que introduz ao mundo da programação. É como aprender a linguagem de um novo país, mas neste caso, a linguagem é a que os computadores entendem. Nessa matéria, você aprenderá os conceitos básicos da lógica de programação, os algoritmos, as estruturas de dados, como funciona e o que é um sistema de informação, começa a entender sobre a arquitetura dos computadores desde os mais antigos até agora, como funciona os processadores e como ver qual tem mais benefícios para o computador. Essa base sólida é essencial para que você possa, no futuro, desenvolver softwares complexos, desde simples aplicativos até sistemas operacionais.
