@@ -1,4 +1,4 @@
-# exercicio_pcea
+# Exercício PCEA - 1° Período 
 
 
 ## Fazer um fork desse repositório e enviar alguma alteração no README.md
